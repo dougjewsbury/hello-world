@@ -5,3 +5,6 @@ UK type in Europe until they kick him out.
 
 == How's This?
 Now we're in the _main_ project. So let's see which is better: Markdown or AsciiDoc.
+
+=== And now I just wanted to add an afterthought
+But it's slipped my mind now.
